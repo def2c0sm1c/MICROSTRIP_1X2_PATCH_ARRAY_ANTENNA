@@ -10,9 +10,13 @@ Operating in the 2.4 GHz ISM band, the antenna is relevant to applications such 
 ---
 ## PROJET OBJECTIVES
 ·Design and simulate a 2.4 GHz 1×2 microstrip patch array antenna.
+
 ·Fabricate the simulated antenna design.
+
 ·Measure the fabricated antenna using a Vector Network Analyzer (VNA).
+
 ·Compare simulated and measured S₁₁ characteristics.
+
 ·Study the practical variation between simulation and measurement.
 
 ---

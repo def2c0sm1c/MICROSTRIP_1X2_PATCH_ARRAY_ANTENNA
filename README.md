@@ -39,7 +39,7 @@ The simulated antenna exhibits a resonance near 2.45 GHz with a minimum S₁₁ 
 
 The fabricated antenna was measured using a Keysight FieldFox VNA, giving a measured resonance near 2.400 GHz with a minimum S₁₁ of −14.67 dB.
 
-![image alt](https://github.com/def2c0sm1c/MICROSTRIP_1X2_PATCH_ARRAY_ANTENNA/blob/9ae319720350feb2af7e674fc92065e84ae5d900/VNA_output.pn)
+![image alt](https://github.com/def2c0sm1c/MICROSTRIP_1X2_PATCH_ARRAY_ANTENNA/blob/9ae319720350feb2af7e674fc92065e84ae5d900/VNA_output.p)
 
 ## RESULT
 The proposed 1 × 2 rectangular microstrip patch array antenna was successfully designed, simulated, fabricated, and experimentally characterized. The CST simulation produced a minimum return loss (S₁₁) of −38 dB at the designed resonant frequency of 2.4 GHz, indicating excellent impedance matching. After fabrication, the antenna was characterized using a Vector Network Analyzer (VNA), which measured a return loss of −15 dB at the same operating frequency. Although the measured return loss was higher than the simulated value, it remains well below the acceptable threshold of −10 dB, confirming satisfactory impedance matching and antenna operation. 
